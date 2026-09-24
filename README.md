@@ -1,7 +1,7 @@
 # Introduction-to-computers
 
 **Introduction to computers**
-A computer is an electronic device that takes input data, processes it, and provides output information. It consists of hardware (physical parts) and software (programs) working together to complete tasks. Main operations include inputting data, processing, displaying results, and saving files for future use.
+A computer is an electronic device that takes input data, processes it, and provides output information. It consists of hardware (physical parts) and software (programs) working together to complete tasks. Main operations include inputting data, processing, displaying results, and saving files for future use.Computers work on 3 fundamental operations that include : Input,Processing and Output. It takes input from the user and process it using different programs and then prints the output accordingly that helps the user  fascilitate from it.
 
 **Types of computers**
 Computers are categorized by their size, power, and everyday usage. Personal computers and laptops are standard for daily work, study, and general entertainment. Supercomputers and mainframes handle heavy scientific calculations and process massive database records. Embedded computers are built into everyday devices like modern cars, smartwatches, and home appliances.
