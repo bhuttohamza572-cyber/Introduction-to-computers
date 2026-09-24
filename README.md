@@ -5,6 +5,12 @@ A computer is an electronic device that takes input data, processes it, and prov
 
 **Types of computers**
 Computers are categorized by their size, power, and everyday usage. Personal computers and laptops are standard for daily work, study, and general entertainment. Supercomputers and mainframes handle heavy scientific calculations and process massive database records. Embedded computers are built into everyday devices like modern cars, smartwatches, and home appliances.
+Computers are divided into 5 categories:
+- 1st generation computers
+- 2nd generation computers
+- 3rd generation computers
+- 4th generation computers
+- 5th generation computers
 
 **History of computers** 
 The evolution of modern computers spans across five distinct technology generations. Early computers in the 1940s used vacuum tubes and were massive, slow, and expensive. Over time, transistors, integrated circuits, and microprocessors made computers smaller, faster, and cheaper. Today, fifth-generation computers rely heavily on artificial intelligence and advanced smart processing.
