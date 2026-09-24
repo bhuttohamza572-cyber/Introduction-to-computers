@@ -13,6 +13,6 @@ Computers are divided into 5 categories:
 - 5th generation computers
 
 **History of computers** 
-The evolution of modern computers spans across five distinct technology generations. Early computers in the 1940s used vacuum tubes and were massive, slow, and expensive. Over time, transistors, integrated circuits, and microprocessors made computers smaller, faster, and cheaper. Today, fifth-generation computers rely heavily on artificial intelligence and advanced smart processing.
+The evolution of modern computers spans across five distinct technology generations. Early computers in the 1940s used vacuum tubes and were massive, slow, and expensive. Over time, transistors, integrated circuits, and microprocessors made computers smaller, faster, and cheaper. Today, fifth-generation computers rely heavily on artificial intelligence and advanced smart processing.In 19th century, the English Mathematician and Mechanical Engineer Charles Babbage designed the concept of first general-purpose mechanical computer, earning him the title "Father of Computer". 
 
 
